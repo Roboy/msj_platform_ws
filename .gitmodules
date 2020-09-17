@@ -1,0 +1,9 @@
+[submodule "src/msj_platform"]
+	path = src/msj_platform
+	url = https://github.com/Roboy/msj_platform
+[submodule "src/roboy_communication"]
+	path = src/roboy_communication
+	url = https://github.com/Roboy/roboy_communication
+[submodule "src/common_utilities"]
+	path = src/common_utilities
+	url = https://github.com/Roboy/common_utilities
